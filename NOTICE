@@ -1,17 +1,13 @@
-# Semantic-Aware Image Captioning (Multi-Branch Architecture)
+This software contains the original implementation of a multi-branch
+semantic-aware image captioning architecture.
 
-This repository contains the full reference implementation of a
-multi-branch architecture for semantic-aware image captioning
-using object, visual, and scene-graph features.
-
-## Research Context
-This work extends ideas from the following accepted conference paper:
-"Upgrading LSTM-Attention to a Transformer Decoder for Image Captioning
-with Object and Visual Features", ICSPIS (IEEE-indexed).
-
-## Authorship
-Primary implementation and code development:
+Primary author and original implementer:
 Nima Sharifinia
 
-## License
-Apache License 2.0 (see LICENSE file).
+Development period: 2025-2026
+
+This implementation underpins and extends research partially published as:
+"Upgrading LSTM-Attention to a Transformer Decoder for Image Captioning with Object and Visual Features",
+ICSPIS Conference (IEEE-indexed, accepted).
+
+Any use of this software or its derivatives must preserve this NOTICE.
